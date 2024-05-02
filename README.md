@@ -3,7 +3,7 @@
 VSCP is an online IDE with the purpose of you being able to code wherever you like and share the code with your friends. `(wip)`
 
 ## How to use?
-- Enter into the [Main page](https://vscp.xhyabunny.com) where you'll see the 'Start' button.
+- Enter into the [Main page](https://vscp.xhyabunny.org) where you'll see the 'Start' button.
 - Login with an user (no password needed)
 - Create or join a project! You're all set!
 
